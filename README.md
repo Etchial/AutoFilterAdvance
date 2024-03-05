@@ -72,7 +72,7 @@ You can deploy this bot anywhere.
 </p>
 </details>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/VJBots/AutoFilterAdvance&branch=Tech_VJ&name=urlshortautofilterbot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Etchial/AutoFilterAdvance&branch=Tech_VJ&name=urlshortautofilterbot)
 
 <details><summary>Deploy To VPS</summary>
 <p>
